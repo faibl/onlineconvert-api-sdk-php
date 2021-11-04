@@ -1,5 +1,5 @@
 {
-  "name": "qaamgo/onlineconvert-api-sdk",
+  "name": "faibl/onlineconvert-api-sdk",
   "description": "Sdk for using the Online Convert Api version 2",
   "type": "library",
   "keywords": ["qaamgo", "online-convert", "php", "sdk", "api", "REST", "convert", "files"],
